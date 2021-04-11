@@ -22,6 +22,7 @@ Created on Tue Apr  6 17:14:18 2021
 # 2. For each of these 2n +1 binary numbers, b, generate a list by selecting 
 # those elements of L that have an index corresponding to a 1 in b. F
 
+# small change to tesyt git
 def getBinaryRep(n, numDigits):
  """Assumes n and numDigits are non-negative ints
  Returns a numDigits str that is a binary
